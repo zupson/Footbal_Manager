@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marko\\OneDrive - Algebra\\MarkoZupan2RP2-FootbalManagerStats\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B34DB5C-17C3-4E22-BF4E-9AF9711966FB}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\marko\\onedrive - algebra\\markozupan2rp2-footbalmanagerstats\\winformsapp\\usercontrolls\\initsettingscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B34DB5C-17C3-4E22-BF4E-9AF9711966FB}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\usercontrolls\\initsettingscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B34DB5C-17C3-4E22-BF4E-9AF9711966FB}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\marko\\onedrive - algebra\\markozupan2rp2-footbalmanagerstats\\winformsapp\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B34DB5C-17C3-4E22-BF4E-9AF9711966FB}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B34DB5C-17C3-4E22-BF4E-9AF9711966FB}|WinFormsApp\\WinFormsApp.csproj|c:\\users\\marko\\onedrive - algebra\\markozupan2rp2-footbalmanagerstats\\winformsapp\\usercontrolls\\initsettingscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B34DB5C-17C3-4E22-BF4E-9AF9711966FB}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\usercontrolls\\initsettingscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD59E2D-4BC0-4D12-A31E-259643C9C2AD}|WpfApp\\WpfApp.csproj|c:\\users\\marko\\onedrive - algebra\\markozupan2rp2-footbalmanagerstats\\wpfapp\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD59E2D-4BC0-4D12-A31E-259643C9C2AD}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD59E2D-4BC0-4D12-A31E-259643C9C2AD}|WpfApp\\WpfApp.csproj|c:\\users\\marko\\onedrive - algebra\\markozupan2rp2-footbalmanagerstats\\wpfapp\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FFD59E2D-4BC0-4D12-A31E-259643C9C2AD}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD59E2D-4BC0-4D12-A31E-259643C9C2AD}|WpfApp\\WpfApp.csproj|c:\\users\\marko\\onedrive - algebra\\markozupan2rp2-footbalmanagerstats\\wpfapp\\windows\\initialsettingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FFD59E2D-4BC0-4D12-A31E-259643C9C2AD}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\windows\\initialsettingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD59E2D-4BC0-4D12-A31E-259643C9C2AD}|WpfApp\\WpfApp.csproj|c:\\users\\marko\\onedrive - algebra\\markozupan2rp2-footbalmanagerstats\\wpfapp\\usercontrols\\playerdetailscontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD59E2D-4BC0-4D12-A31E-259643C9C2AD}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\usercontrols\\playerdetailscontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD59E2D-4BC0-4D12-A31E-259643C9C2AD}|WpfApp\\WpfApp.csproj|c:\\users\\marko\\onedrive - algebra\\markozupan2rp2-footbalmanagerstats\\wpfapp\\usercontrols\\playerdetailscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FFD59E2D-4BC0-4D12-A31E-259643C9C2AD}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\usercontrols\\playerdetailscontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 307,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseForm.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\OneDrive - Algebra\\MarkoZupan2RP2-FootbalManagerStats\\WinFormsApp\\BaseForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\BaseForm.cs",
+              "ToolTip": "C:\\Users\\marko\\OneDrive - Algebra\\MarkoZupan2RP2-FootbalManagerStats\\WinFormsApp\\BaseForm.cs",
+              "RelativeToolTip": "WinFormsApp\\BaseForm.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAqwH0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T17:36:19.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InitSettingsControl.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\OneDrive - Algebra\\MarkoZupan2RP2-FootbalManagerStats\\WinFormsApp\\UserControlls\\InitSettingsControl.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\UserControlls\\InitSettingsControl.cs",
+              "ToolTip": "C:\\Users\\marko\\OneDrive - Algebra\\MarkoZupan2RP2-FootbalManagerStats\\WinFormsApp\\UserControlls\\InitSettingsControl.cs",
+              "RelativeToolTip": "WinFormsApp\\UserControlls\\InitSettingsControl.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T17:35:38.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InitSettingsControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marko\\OneDrive - Algebra\\MarkoZupan2RP2-FootbalManagerStats\\WinFormsApp\\UserControlls\\InitSettingsControl.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\UserControlls\\InitSettingsControl.cs",
+              "ToolTip": "C:\\Users\\marko\\OneDrive - Algebra\\MarkoZupan2RP2-FootbalManagerStats\\WinFormsApp\\UserControlls\\InitSettingsControl.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\UserControlls\\InitSettingsControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T17:33:18.415Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\OneDrive - Algebra\\MarkoZupan2RP2-FootbalManagerStats\\WpfApp\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp\\Windows\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\marko\\OneDrive - Algebra\\MarkoZupan2RP2-FootbalManagerStats\\WpfApp\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp\\Windows\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T17:17:50.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InitialSettingsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\marko\\OneDrive - Algebra\\MarkoZupan2RP2-FootbalManagerStats\\WpfApp\\Windows\\InitialSettingsWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\Windows\\InitialSettingsWindow.xaml",
+              "ToolTip": "C:\\Users\\marko\\OneDrive - Algebra\\MarkoZupan2RP2-FootbalManagerStats\\WpfApp\\Windows\\InitialSettingsWindow.xaml",
+              "RelativeToolTip": "WpfApp\\Windows\\InitialSettingsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-29T17:08:37.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\marko\\OneDrive - Algebra\\MarkoZupan2RP2-FootbalManagerStats\\WpfApp\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\Windows\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\marko\\OneDrive - Algebra\\MarkoZupan2RP2-FootbalManagerStats\\WpfApp\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp\\Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-29T17:02:15.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerDetailsControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marko\\OneDrive - Algebra\\MarkoZupan2RP2-FootbalManagerStats\\WpfApp\\UserControls\\PlayerDetailsControl.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp\\UserControls\\PlayerDetailsControl.xaml.cs",
+              "ToolTip": "C:\\Users\\marko\\OneDrive - Algebra\\MarkoZupan2RP2-FootbalManagerStats\\WpfApp\\UserControls\\PlayerDetailsControl.xaml.cs",
+              "RelativeToolTip": "WpfApp\\UserControls\\PlayerDetailsControl.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T16:23:56.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerDetailsControl.xaml",
+              "DocumentMoniker": "C:\\Users\\marko\\OneDrive - Algebra\\MarkoZupan2RP2-FootbalManagerStats\\WpfApp\\UserControls\\PlayerDetailsControl.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\UserControls\\PlayerDetailsControl.xaml",
+              "ToolTip": "C:\\Users\\marko\\OneDrive - Algebra\\MarkoZupan2RP2-FootbalManagerStats\\WpfApp\\UserControls\\PlayerDetailsControl.xaml",
+              "RelativeToolTip": "WpfApp\\UserControls\\PlayerDetailsControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-29T16:08:50.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

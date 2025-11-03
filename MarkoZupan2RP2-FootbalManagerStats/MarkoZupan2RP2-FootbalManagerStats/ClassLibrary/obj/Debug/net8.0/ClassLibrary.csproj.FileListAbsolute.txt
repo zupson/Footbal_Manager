@@ -1,0 +1,12 @@
+C:\Users\marko\OneDrive - Algebra\MarkoZupan2RP2-FootbalManagerStats\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+C:\Users\marko\OneDrive - Algebra\MarkoZupan2RP2-FootbalManagerStats\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\marko\OneDrive - Algebra\MarkoZupan2RP2-FootbalManagerStats\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\marko\OneDrive - Algebra\MarkoZupan2RP2-FootbalManagerStats\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\marko\OneDrive - Algebra\MarkoZupan2RP2-FootbalManagerStats\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\OneDrive - Algebra\MarkoZupan2RP2-FootbalManagerStats\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\marko\OneDrive - Algebra\MarkoZupan2RP2-FootbalManagerStats\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\marko\OneDrive - Algebra\MarkoZupan2RP2-FootbalManagerStats\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\marko\OneDrive - Algebra\MarkoZupan2RP2-FootbalManagerStats\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+C:\Users\marko\OneDrive - Algebra\MarkoZupan2RP2-FootbalManagerStats\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+C:\Users\marko\OneDrive - Algebra\MarkoZupan2RP2-FootbalManagerStats\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+C:\Users\marko\OneDrive - Algebra\MarkoZupan2RP2-FootbalManagerStats\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll
